@@ -1,2 +1,0 @@
-# peakbragger
-Website for hikers.
